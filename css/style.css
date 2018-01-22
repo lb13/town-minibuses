@@ -1,0 +1,47 @@
+body {
+	margin: 0px;
+	font-family: Arial;
+	background-color: #C0F0F4;
+}
+
+header {
+	background-color: #3DAAD7;
+	margin: 0px;
+}
+
+header h1 {
+	margin: 0px;
+}
+
+footer {
+	background-color: #3D5DD7;
+	color: white;
+	text-align: center;
+	position: absolute;
+	bottom: 0%;
+	width: 100%;
+	height: auto;
+}
+
+footer p {
+
+}
+
+nav {
+	background-color: #3DD7B7;
+}
+
+nav ul {
+	margin: 0px;
+}
+
+nav ul li {
+	display: inline;
+}
+
+.banner {
+	width: 90%;
+	background-color: #FFF;
+	margin-left: auto;
+	margin-right: auto;
+}
